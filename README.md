@@ -9,7 +9,8 @@ Follow the steps below for execution:
 2. Open command prompt
 3. Navigate to repo folder path
 4. Execute following commands as per flag: 
-| Plugin | README |
+
+| Executions | Commands |
 | ------ | ------ |
 | Opening Test Runner | ***bash init -r*** |
 | Setting test execution on headless chrome | ***bash init -hc*** |
