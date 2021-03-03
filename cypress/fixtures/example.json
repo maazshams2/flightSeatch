@@ -1,0 +1,14 @@
+{
+  "from": "Dubai",
+  "to": "Munich",
+  "dateFrom": {
+    "date": "10",
+    "month": "03",
+    "year": 2021
+  },
+  "dateTo": {
+    "date": "15",
+    "month": "03",
+    "year": 2021
+  }
+}

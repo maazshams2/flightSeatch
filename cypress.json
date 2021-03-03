@@ -1,0 +1,20 @@
+{
+  "requestTimeout": 15000,
+  "responseTimeout": 15000,
+  "pageLoadTimeout": 15000,
+  "chromeWebSecurity": false,
+  "video": false,
+  "fixturesFolder": "cypress/fixtures",
+  "integrationFolder": "cypress/integration",
+  "pluginsFile": "cypress/plugins/index.js",
+  "screenshotsFolder": "cypress/screenshots",
+  "videosFolder": "cypress/videos",
+  "supportFile": "cypress/support/index.js",
+  "baseUrl": "https://lucid-heisenberg-474565.netlify.app",
+  "apiBaseUrl": "https://skyscanner-skyscanner-flight-search-v1.p.rapidapi.com/apiservices",
+  "reporter": "junit",
+  "reporterOptions": {
+    "mochaFile": "cypress/results/test-output-[hash].xml",
+    "attachments": true
+  }
+}
